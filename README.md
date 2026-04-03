@@ -48,6 +48,6 @@ Spotify data pipeline built in Python and Jupyter.
 
 ## contact
 
-📧 shibinthansilas@gmail.com
+📧 shibinthansilass@gmail.com
 💼 [linkedin.com/in/shibinthansilas](https://linkedin.com/in/shibinthansilas)
 🐙 [github.com/Shibin2000](https://github.com/Shibin2000)
