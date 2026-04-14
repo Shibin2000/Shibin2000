@@ -3,11 +3,11 @@
 MS in Data Science — University of Houston (2025)
 Houston, TX 🟢 Green Card
 
-I built these projects to get hands-on with the data engineering
-stack I kept seeing in job descriptions — Airflow, dbt, PySpark,
-DuckDB. Real datasets, not toy CSVs.
+I built these projects to get hands-on with data engineering
+and analytics — real datasets, real pipelines, real insights.
+Airflow, dbt, PySpark, DuckDB, SQL, Python, Tableau.
 
-Currently looking for entry-level Data Engineer roles.
+Currently open to entry-level Data Engineer and Data Analyst roles.
 Open to full-time and contract roles.
 
 📧 shibinthansilass@gmail.com
